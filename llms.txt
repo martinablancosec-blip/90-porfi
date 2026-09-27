@@ -1,0 +1,24 @@
+# Instituto Nuestra Señora de la Merced (INSM)
+
+> Sitio oficial del Instituto Nuestra Señora de la Merced de Arroyito, Córdoba, Argentina. Comunidad educativa mercedaria desde 1887.
+
+## Páginas principales
+- Inicio: ./
+- Nuestra institución: ./NuestroColegio.html
+- Nivel Inicial: ./NivelInicial.html
+- Nivel Primario: ./NivelPrimario.html
+- Nivel Secundario: ./NivelSecundario.html
+- Nivel Superior: ./NivelTerciario.html
+- Proyectos: ./Proyectos.html
+- Contacto: ./Contacto.html
+- Inscripciones: ./Inscripciones.html
+- Privacidad: ./privacidad.html
+
+## Información institucional
+- Institución: Instituto Nuestra Señora de la Merced
+- Ubicación: 9 de Julio 465, Arroyito, Córdoba, Argentina
+- Educación: Nivel Inicial, Primario, Secundario y Superior
+- Historia: desde 1887
+
+## Prioridad
+La página de Inscripciones contiene los canales y formularios destinados a consultas e ingreso a la institución.
